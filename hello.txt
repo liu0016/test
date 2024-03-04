@@ -1,1 +1,4 @@
 new file
+
+
+this should create a merge conflict
